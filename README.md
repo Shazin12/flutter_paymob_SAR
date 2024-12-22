@@ -7,14 +7,14 @@ Easily accept payments Cards through [Paymob](https://accept.paymob.com/portal2/
     <img src="https://github.com/user-attachments/assets/d8633bb6-2862-4a71-a546-365d8bde198b" />
 </p>
 
-## 🚀  Installation
 
-    ```dart
+    ```
   
-    SUPPORT ANDROID , IOS , WINDOWS , WEB 
+  ##  SUPPORT ANDROID , IOS , WINDOWS , WEB 
    
     ``` 
 
+## 🚀  Installation
 
 To install the Flutter Payment SAR Package, follow these steps
 
