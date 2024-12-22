@@ -8,11 +8,8 @@ Easily accept payments Cards through [Paymob](https://accept.paymob.com/portal2/
 </p>
 
 
-    ```
   
   ##  SUPPORT ANDROID , IOS , WINDOWS , WEB 
-   
-    ``` 
 
 ## 🚀  Installation
 
